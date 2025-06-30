@@ -63,9 +63,3 @@ options-volatility-surface/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 ```
-
-## Contributing
-Pull requests and issues are welcome! Please open an issue to discuss major changes before submitting a PR.
-
-## License
-MIT License. See [LICENSE](LICENSE) for details. 
